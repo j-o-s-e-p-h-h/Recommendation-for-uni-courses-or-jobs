@@ -4,7 +4,7 @@ def breadth_first_search(start_node, target_name):
     queue = deque()
     queue.append(start_node)
 
-    target_name = target_name.lower()
+    target_name = target_name.strip().lower()
 
     while queue:
         current_node = queue.popleft()
