@@ -1,15 +1,18 @@
 from collections import deque
 
-def breadth_first_search(root_node, goal_value):
-    #queue for first in first out principle
-    frontier_queue = deque()
+def breadth_first_search(start_node, target_name):
+    queue = deque()
+    queue.append(start_node)
 
-    #adding root to queue
-    path = [root_node]
-    frontier_queue.append(path)
+    target_name = target_name.lower()
 
-    while frontier_queue:
-        current_path = frontier_queue.pop()
-        current_node = current_path[-1]
+    while queue:
+        current_node = queue[0]
 
-        #checking if it is the goal
+        if current_node.name.lower() == target_name:
+            return current_node
+        
+        for child in current_node.children:
+            queue.append(child)
+
+    return None
