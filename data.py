@@ -5,6 +5,7 @@ industry_tech_data = {
                 "description": "Manage digital patient records, hospital systems, and health dashboards.",
                 "requirements": [
                     "Bachelor's degree in Health Informatics, Computer Science, Information Systems, Nursing, or Public Health",
+                    "Typical BGCSE profile for the related degree: aggregate 30 or below, grade B in Mathematics, grade B in Biology or Combined Science, and grade C in English",
                     "Knowledge of electronic health record systems and digital health workflows",
                     "Ability to use Excel, SQL, Power BI, or similar reporting tools",
                     "Understanding of patient privacy, confidentiality, and health data security",
@@ -16,6 +17,7 @@ industry_tech_data = {
                 "description": "Install, maintain, and repair medical devices used in hospitals, clinics, and laboratories.",
                 "requirements": [
                     "Diploma or degree in Biomedical Engineering, Electronics, Electrical Engineering, or Medical Equipment Technology",
+                    "Typical BGCSE profile for the related diploma or degree: aggregate 28 or below, grade B in Mathematics, grade B in Physical Science or Physics, and grade C in English",
                     "Ability to troubleshoot, calibrate, and test medical equipment",
                     "Knowledge of preventive maintenance, safety checks, and technical documentation",
                     "Good communication skills for working with doctors, nurses, and suppliers",
@@ -27,6 +29,7 @@ industry_tech_data = {
                 "description": "Support telehealth platforms, remote consultations, and digital communication between patients and clinicians.",
                 "requirements": [
                     "Diploma or degree in Information Technology, Networking, Health Information Management, or related field",
+                    "Typical BGCSE profile for the related course: aggregate 34 or below, grade C in Mathematics, grade C in Computer Studies or Science, and grade C in English",
                     "Knowledge of telemedicine platforms, video conferencing tools, and device setup",
                     "Basic networking, troubleshooting, and user support skills",
                     "Ability to train staff and assist patients with digital health systems",
@@ -42,6 +45,7 @@ industry_tech_data = {
                 "description": "Use sensors, GPS tools, and smart irrigation systems to improve crop and livestock production.",
                 "requirements": [
                     "Diploma or degree in Agriculture, Agricultural Engineering, Mechatronics, or Information Technology",
+                    "Typical BGCSE profile for the related course: aggregate 34 or below, grade C in Agriculture or Biology, grade C in Mathematics, and grade C in English",
                     "Knowledge of farm sensors, GPS mapping, smart irrigation, or digital monitoring tools",
                     "Ability to install, test, and maintain field equipment",
                     "Basic data collection, analysis, and reporting skills",
@@ -53,6 +57,7 @@ industry_tech_data = {
                 "description": "Analyse farm, weather, market, and production data to improve agricultural planning.",
                 "requirements": [
                     "Degree in Agriculture, Statistics, Data Science, Economics, or related field",
+                    "Typical BGCSE profile for the related degree: aggregate 30 or below, grade B in Mathematics, grade C in Biology, Agriculture, or Science, and grade C in English",
                     "Skills in Excel, SQL, Python, or similar data analysis tools",
                     "Understanding of crop, livestock, or agribusiness performance indicators",
                     "Ability to turn data into recommendations for farmers, agribusinesses, or policy teams",
@@ -64,6 +69,7 @@ industry_tech_data = {
                 "description": "Use maps, drones, and satellite imagery to monitor land, crops, water, and environmental conditions.",
                 "requirements": [
                     "Degree in GIS, Geography, Environmental Science, Agriculture, Surveying, or related field",
+                    "Typical BGCSE profile for the related degree: aggregate 30 or below, grade B in Geography or Science, grade B in Mathematics, and grade C in English",
                     "Knowledge of GIS software, mapping, and satellite image interpretation",
                     "Spatial analysis and report-writing skills",
                     "Ability to collect and validate field data when needed",
@@ -79,6 +85,7 @@ industry_tech_data = {
                 "description": "Turn company data into dashboards and insights that support business decisions.",
                 "requirements": [
                     "Degree in Business Analytics, Information Systems, Statistics, Data Science, Finance, or a related field",
+                    "Typical BGCSE profile for the related degree: aggregate 30 or below, grade B in Mathematics, grade C in English, and grade C in Computer Studies or Business Studies",
                     "Strong skills in Excel, SQL, Power BI, Tableau, or similar dashboard tools",
                     "Ability to define KPIs, clean data, and explain trends clearly",
                     "Good communication skills for working with managers and non-technical teams",
@@ -90,6 +97,7 @@ industry_tech_data = {
                 "description": "Help design and improve digital banking, payment, and financial service products.",
                 "requirements": [
                     "Degree in Business, Finance, Computer Science, Information Systems, or related field",
+                    "Typical BGCSE profile for the related degree: aggregate 30 or below, grade B in Mathematics, grade C in English, and grade C in Computer Studies, Accounting, or Business Studies",
                     "Understanding of digital payments, mobile money, online banking, and product development",
                     "Ability to gather user requirements and support testing of financial products",
                     "Analytical thinking and stakeholder communication skills",
@@ -101,6 +109,7 @@ industry_tech_data = {
                 "description": "Configure and support business software used for finance, stock, HR, and operations.",
                 "requirements": [
                     "Diploma or degree in Information Technology, Accounting, Business Information Systems, or related field",
+                    "Typical BGCSE profile for the related course: aggregate 34 or below, grade C in Mathematics, grade C in English, and grade C in Accounting, Commerce, or Computer Studies",
                     "Knowledge of ERP platforms such as SAP, Oracle, Odoo, or Sage",
                     "Understanding of finance, procurement, inventory, or HR workflows",
                     "Ability to train users, solve system issues, and document business processes",
