@@ -24,7 +24,7 @@ def build_career_tree():
         for job_name, job_info in careers_dict.items():
             job_node = TreeNode()
             job_node.name = job_name
-            job_node.type_node = "job"
+            job_node.node_type = "job"
             job_node.details = job_info 
 
             category_node.add_child(job_node)
@@ -45,7 +45,7 @@ def get_job_names(catogery_node):
     job_names = []
 
     for child in catogery_node.children:
-        job_names.append(child)
+        job_names.append(child.name)
 
     return job_names
 
@@ -67,5 +67,5 @@ def display_job_details(job_node):
         print("- " + place)
 
     print("=" * 56)
-    print("Avergae Monthly Salary: " + info["avg_monthly_salary"])
+    print("Average Monthly Salary: " + info["avg_monthly_salary_bwp"])
 

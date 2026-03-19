@@ -7,7 +7,7 @@ def breadth_first_search(start_node, target_name):
     target_name = target_name.lower()
 
     while queue:
-        current_node = queue[0]
+        current_node = queue.popleft()
 
         if current_node.name.lower() == target_name:
             return current_node
