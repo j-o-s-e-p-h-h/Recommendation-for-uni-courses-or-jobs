@@ -1,6 +1,7 @@
 # Tech Career Recommendation Tree
 
 This project is a simple command-line career guidance program that helps a user explore tech-related jobs by category.
+NB: This is specific to Botswana only.
 
 The user flow is:
 1. View the available categories
@@ -26,8 +27,7 @@ This makes the project a good example of how trees and traversal algorithms can 
 - Breadth-First Search (BFS) to find categories and jobs
 - Numbered menus for easier navigation
 - Autocomplete-style selection for long job names
-- ASCII art banner for a more presentable terminal interface
-- Neatly formatted job details
+- ASCII art banner to make it look nice.
 
 ## Categories Included
 
@@ -114,15 +114,6 @@ Make sure Python 3 is installed, then run:
 python main.py
 ```
 
-## Concepts Demonstrated
-
-- Trees
-- Nodes and child relationships
-- Breadth-First Search
-- CLI menu design
-- Basic autocomplete logic
-- Structured data representation in Python
-
 ## Future Improvements
 
 - Add more career categories
@@ -130,6 +121,8 @@ python main.py
 - Add a graphical user interface
 - Add validation for misspellings and smarter suggestions
 - Save user searches or recommendations
+- Develop this into a website
+- Add more country relevant jobs
 
 ## Author Notes
 
