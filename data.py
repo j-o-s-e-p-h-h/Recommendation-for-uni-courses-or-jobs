@@ -111,5 +111,3 @@ industry_tech_data = {
         },
     },
 }
-
-print(industry_tech_data)
