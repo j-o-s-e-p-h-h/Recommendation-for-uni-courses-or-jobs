@@ -5,9 +5,11 @@ NB: This is specific to Botswana only.
 
 ## Showcase Video
 
-[![Watch the showcase demo](assets/showcase-thumbnail.svg)](https://github.com/j-o-s-e-p-h-h/Recommendation-for-uni-courses-or-jobs/blob/main/assets/showcase-demo.mp4)
+[![Watch the showcase demo](assets/showcase-thumbnail.svg)](https://j-o-s-e-p-h-h.github.io/Recommendation-for-uni-courses-or-jobs/)
 
-Watch the project demo here: [Showcase Demo](https://github.com/j-o-s-e-p-h-h/Recommendation-for-uni-courses-or-jobs/blob/main/assets/showcase-demo.mp4)
+Watch the project demo here: [Showcase Demo](https://j-o-s-e-p-h-h.github.io/Recommendation-for-uni-courses-or-jobs/)
+
+Fallback GitHub link: [Video File Page](https://github.com/j-o-s-e-p-h-h/Recommendation-for-uni-courses-or-jobs/blob/main/assets/showcase-demo.mp4)
 
 The demo shows:
 
