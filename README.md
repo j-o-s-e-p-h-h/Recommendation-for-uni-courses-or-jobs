@@ -136,6 +136,7 @@ python main.py
 - Save user searches or recommendations
 - Develop this into a website
 - Add more country relevant jobs
+- Upgrade it to a machine learning recoommendation system
 
 ## Author Notes
 
