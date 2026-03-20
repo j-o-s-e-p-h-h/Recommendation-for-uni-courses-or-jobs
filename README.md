@@ -5,9 +5,9 @@ NB: This is specific to Botswana only.
 
 ## Showcase Video
 
-[![Watch the showcase demo](assets/showcase-thumbnail.svg)](assets/showcase-demo.mp4)
+[![Watch the showcase demo](assets/showcase-thumbnail.svg)](https://github.com/j-o-s-e-p-h-h/Recommendation-for-uni-courses-or-jobs/blob/main/assets/showcase-demo.mp4)
 
-Watch the project demo here: [Showcase Demo](assets/showcase-demo.mp4)
+Watch the project demo here: [Showcase Demo](https://github.com/j-o-s-e-p-h-h/Recommendation-for-uni-courses-or-jobs/blob/main/assets/showcase-demo.mp4)
 
 The demo shows:
 
