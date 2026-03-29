@@ -114,6 +114,12 @@ Make sure Python 3 is installed, then run:
 python main.py
 ```
 
+SHOWCASE VIDEO
+
+
+https://github.com/user-attachments/assets/587c94f3-e954-45a3-b1ba-0ff721bac59b
+
+
 ## Future Improvements
 
 - Add more career categories
