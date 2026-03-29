@@ -3,21 +3,6 @@
 This project is a simple command-line career guidance program that helps a user explore tech-related jobs by category.
 NB: This is specific to Botswana only.
 
-## Showcase Video
-
-[![Watch the showcase demo](assets/showcase-thumbnail.svg)](https://j-o-s-e-p-h-h.github.io/Recommendation-for-uni-courses-or-jobs/)
-
-Watch the project demo here: [Showcase Demo](https://j-o-s-e-p-h-h.github.io/Recommendation-for-uni-courses-or-jobs/)
-
-Fallback GitHub link: [Video File Page](https://github.com/j-o-s-e-p-h-h/Recommendation-for-uni-courses-or-jobs/blob/main/assets/showcase-demo.mp4)
-
-The demo shows:
-
-- the ASCII-art terminal welcome screen
-- browsing categories such as Medicine, Agriculture, and Business
-- selecting jobs with numbered choices or partial-name autocomplete
-- viewing the full job profile, including requirements, workplaces, and salary
-
 The user flow is:
 1. View the available categories
 2. Choose a category such as `Medicine`, `Agriculture`, or `Business`
